@@ -1,4 +1,4 @@
-# Hang in there! 👋
+# Hello, there! 👋
 
 Thank you for visiting my Page 😁
 I'm JUNSEO-Ray, an Electrical Engineering student from Tech University of Korea, passionate about bridging software and hardware to create innovative solutions.
