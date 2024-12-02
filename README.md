@@ -3,7 +3,7 @@
 Thank you for visiting my page 😁
 I'm JUNSEO-Ray, an Electrical Engineering student from Tech University of Korea, passionate about bridging software and hardware to create innovative solutions.
 
-## 💻 Technologies I Use :
+## 💻 Stacks I Use :
 - **🖥️ Programming:** Python, Java, C
 - **🌐 Web:** HTML, CSS, JavaScript
 
